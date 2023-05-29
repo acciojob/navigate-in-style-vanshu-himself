@@ -4,4 +4,8 @@
 }li{
 	margin-right:1rem;
 	list-style:disc;
+}.container{
+	display:flex;
+	padding:10px;
+	background:rgb(211, 211, 211)
 }
